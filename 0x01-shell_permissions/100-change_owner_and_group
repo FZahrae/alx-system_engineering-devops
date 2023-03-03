@@ -1,2 +1,2 @@
 #!/bin/bash
-chmn vincent:staff *
+chown -R betty:holberton ./
